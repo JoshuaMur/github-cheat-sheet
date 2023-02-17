@@ -1,7 +1,7 @@
-# GitHubカンニング・ペーパー [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-これはGitやGitHubの隠された機能やよく知られていない機能の一覧だ。[Zach Holman](https://github.com/holman)によるAloha Ruby Conference 2012での[Git and GitHub Secrets](https://github.com/tiimgreen/github-cheat-sheet)（[スライド](https://github.com/tiimgreen/github-cheat-sheet)）とWDCNZ 2013での[More Git and GitHub Secrets](https://vimeo.com/72955426)（[スライド](https://speakerdeck.com/holman/more-git-and-github-secrets)）の二つのトークを元にしている。
+# GitHub cheat sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Here's a list of hidden and lesser-known features of Git and GitHub. [Git and GitHub Secrets](https://github.com/tiimgreen/github-cheat-sheet) ([slides]( https://github.com/tiimgreen/github-cheat-sheet)) and [More Git and GitHub Secrets](https://vimeo.com/72955426) at WDCNZ 2013 ([slides](https://speakerdeck .com/holman/more-git-and-github-secrets)).
 
-*短縮URL: [`http://git.io/sheet`](http://git.io/sheet)*
+*Short URL: [`http://git.io/sheet`](http://git.io/sheet)*
 
 *Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md).*
 
